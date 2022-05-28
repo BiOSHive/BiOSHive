@@ -1,4 +1,6 @@
-### Hi there 👋
+### Meisha Jones
+
+🔭 I’m currently working on a few apps within my github such as The Cubby App. 
 
 <!--
 **BiOSHive/BiOSHive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
