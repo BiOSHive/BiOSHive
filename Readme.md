@@ -1,18 +1,60 @@
-### Meisha Jones
+# **WELCOME TO MY GITHUB....**
+## **Hi I'm Meisha Jones**
 
-🔭 I’m currently working on a few apps within my github such as The Cubby App. 
+I am a mom, current college student and developer. I like to create projects that help others and make the bigger things in life easier and the little things in life stand out. I'm always thinking of ways to change or improve something. Once i picture in my head and understand the basic functionality of how something should look or operate.....I create it. 
 
-<!--
-**BiOSHive/BiOSHive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I created this readme to give you a small glimpse into who I am and what I do. Find the section below and it will link to different areas of my github. Keep in mind my github is a live working space and I am constantly updating it in real time. 
 
-Here are some ideas to get you started:
+______________________________________________________
+### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
+*The following projects are links to the current repositories I am working on.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**TheCubbyApp**
+<!-- - TheBiosHiveApp -->
+____________________________________________________
+
+### **🌱 SKILLS I AM LEARNING OR IMPROVING 🌱**
+*the following skills are things I am learning to better myself as a fullstack developer.*
+
+- **Languages:**
+  - C++ : 
+  - Kotlin:
+  - PHP:
+______________________________________________________
+
+<!-- ### **👯 PROJECTS IM LOOKING TO COLLABORATE ON 👯**
+
+_______________________________________________________ -->
+
+<!-- ## **🤔 THINGS IM LOOKIMG FOR HELP WITH 🤔** 
+
+_________________________________________________________ -->
+### **MY EDUCATION AND CERTIFICATIONS**
+
+  - **Cybersecurity and Networking Foundations Certificate**, 
+*Tidewater Community College - Dec 2021*
+
+  - **Information Systems Technology Certificate**, 
+*Tidewater Community College - Dec 2021*
+
+  - **Deans List**, *Tidewater Community College: May 2021, December 2021, May 2022*
+
+________________________________________________________
+
+### **📫 CONNECT WITH ME 📫**
+
+- business email: thebioshive@gmail.com
+- LinkedIN: https://www.linkedin.com/in/kemeishajones/
+- Twitter: https://twitter.com/MsTechandBeauty
+
+ <!-- - Instagram: https://www.instagram.com/thebioshive/ -->
+__________________________________________________________
+
+
+
+
+
+
+
+
+
