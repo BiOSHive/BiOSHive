@@ -14,7 +14,7 @@ ______________________________________________________
 ____________________________________________________
 
 ### **🌱 SKILLS I AM LEARNING OR IMPROVING 🌱**
-*the following skills are things I am learning to better myself as a fullstack developer.*
+*the following skills are things I am learning to better myself as a fullstack developer. If you want to see my current skills please view my repositories.*
 
 - **Languages:**
   - C++ : 
