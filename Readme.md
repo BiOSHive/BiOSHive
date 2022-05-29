@@ -3,7 +3,7 @@
 
 I am a mom, current college student and developer. I like to create projects that help others and make the bigger things in life easier and the little things in life stand out. I'm always thinking of ways to change or improve something. Once i picture in my head and understand the basic functionality of how something should look or operate.....I create it. 
 
-I created this readme to give you a small glimpse into who I am and what I do. Find the section below and it will link to different areas of my github. Keep in mind my github is a live working space and I am constantly updating it in real time. 
+I created this readme to give you a small glimpse into who I am and what I do. Please keep in mind my github is a live working space and I am constantly updating it in real time. 
 
 ______________________________________________________
 ### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
