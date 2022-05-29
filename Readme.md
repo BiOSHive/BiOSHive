@@ -1,7 +1,7 @@
 # **WELCOME TO MY GITHUB....**
 ## **Hi I'm Meisha Jones**
 
-I am a mom, current college student and developer. I like to create projects that help others and make the bigger things in life easier and the little things in life stand out. I'm always thinking of ways to change or improve something. Once I picture something in my head and understand the basic functionality of how something should look or operate .....I create it. 
+I am a mom, current college student and developer. I like to create projects that help others and make the bigger things in life easier and the little things in life stand out. I'm always thinking of ways to change or improve something. Once I picture something in my head and understand the basic functionality of how something should look or why it operates the way it does .....I create it. 
 
 I created this readme to give you a small glimpse into who I am and what I do. Please keep in mind my github is a live working space and I am constantly updating it in real time. 
 
