@@ -1,5 +1,5 @@
 # **WELCOME TO MY GITHUB....**
-## **Hi I'm Meisha Jones**
+## **Hi I'm Kemeisha, but everyone calls me Meisha**
 
 I am a mom, current college student and developer.I love to code and create things as well as spend time with my kids. I like to create projects that help others and make the bigger things in life easier and the little things in life stand out. I'm always thinking of ways to change or improve something. Once I picture something in my head and understand the basic functionality of how something should look or why it operates the way it does .....I create it. 
 
