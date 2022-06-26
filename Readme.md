@@ -9,7 +9,10 @@ ______________________________________________________
 ### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
 *The following projects are links to the current repositories I am working on.*
 
-**TheCubbyApp**
+[The Cubby App](https://github.com/BiOSHive/TheCubbyApp)
+
+[My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)
+
 <!-- - TheBiosHiveApp -->
 ____________________________________________________
 
@@ -19,7 +22,6 @@ ____________________________________________________
 - **Languages:**
   - C++ : 
   - Kotlin:
-  - PHP:
 ______________________________________________________
 
 <!-- ### **👯 PROJECTS IM LOOKING TO COLLABORATE ON 👯**
@@ -43,9 +45,9 @@ ________________________________________________________
 
 ### **📫 CONNECT WITH ME 📫**
 
-- business email: thebioshive@gmail.com
-- LinkedIN: https://www.linkedin.com/in/kemeishajones/
-- Twitter: https://twitter.com/MsTechandBeauty
+[My LinkedIN](https://www.linkedin.com/in/kemeishajones)
+
+[My Twitter](https://twitter.com/MsTechandBeauty)
 
  <!-- - Instagram: https://www.instagram.com/thebioshive/ -->
 __________________________________________________________
