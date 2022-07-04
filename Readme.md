@@ -9,7 +9,6 @@ ______________________________________________________
 ### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
 *The following projects are links to the current repositories I am working on.*
 
-[The Cubby App](https://github.com/BiOSHive/TheCubbyApp)
 
 [My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)
 
