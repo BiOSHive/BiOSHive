@@ -19,6 +19,7 @@ ____________________________________________________
 *The following skills are things I am learning to better myself as a fullstack developer. If you want to see my current skills please view my repositories.*
 
 - **Languages I am Learning:**
+
   - Swift 
   - Kotlin 
   - Flutter
