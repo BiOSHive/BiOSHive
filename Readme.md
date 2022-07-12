@@ -40,7 +40,7 @@ _________________________________________________________ -->
   - **Information Systems Technology Certificate**, 
 *Tidewater Community College - Dec 2021*
 
-  - **Deans List**, *Tidewater Community College: May 2021, December 2021, May 2022*
+  - **Dean's List**, *Tidewater Community College: May 2021, December 2021, May 2022*
 
 ________________________________________________________
 
