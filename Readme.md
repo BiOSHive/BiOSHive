@@ -46,7 +46,7 @@ ________________________________________________________
 
 ### **📫 CONNECT WITH ME 📫**
 
-[My LinkedIN](https://www.linkedin.com/in/kemeishajones)
+[My LinkedIn](https://www.linkedin.com/in/kemeishajones)
 
 [My Twitter](https://twitter.com/MsTechandBeauty)
 
