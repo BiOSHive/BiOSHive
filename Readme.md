@@ -6,13 +6,16 @@ I am a mom, current college student, and freelance software developer. I love to
 I created this Readme to give you a small glimpse into who I am and what I do. Please keep in mind my GitHub is a live working space and I am constantly updating it in real time. 
 
 ______________________________________________________
-### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
+### **🔭  PROJECTS I AM CURRENTLY WORKING ON 🔭**
 *The following projects are links to the current repositories I am working on.*
 
-
 [My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)
+___________________________________________________________________
 
-<!-- [My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)-->
+### **🔭  PROJECTS I HAVE COMPLETED 🔭**
+*The following links are to the current projects I have completed.*
+
+[Budget Calculator](https://github.com/BiOSHive/budget-calculator)
 
 
 <!-- - TheBiosHiveApp -->
