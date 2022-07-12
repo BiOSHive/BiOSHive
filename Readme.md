@@ -1,9 +1,9 @@
 # **WELCOME TO MY GITHUB....**
 ## **Hi I'm Kemeisha, but everyone calls me Meisha**
 
-I am a mom, current college student, and freelance software developer. I love to code and create things as well as spend time with my kids. I like to create mobile applications and web applications that help others. I'm always thinking of ways to change or improve something. Once I picture something in my head and understand the basic functionality of how something should look or why it operates the way it does .....I tend to try to create it. 
+I am a mom, current college student, and freelance software developer. I love to code and create things as well as spend time with my kids. I like to create mobile applications and web applications that help others. I'm always thinking of ways to change or improve something. Once I picture something in my head and understand the basic functionality of how something should look or why it operates the way it does...I tend to try to create it. 
 
-I created this readme to give you a small glimpse into who I am and what I do. Please keep in mind my github is a live working space and I am constantly updating it in real time. 
+I created this Readme.md to give you a small glimpse into who I am and what I do. Please keep in mind my github is a live working space and I am constantly updating it in real time. 
 
 ______________________________________________________
 ### **🔭  PROJECTS I AM CURRENTLY WORKING ON OR IMPROVING 🔭**
