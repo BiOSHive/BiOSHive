@@ -34,7 +34,7 @@ _______________________________________________________ -->
 _________________________________________________________ -->
 ### **MY EDUCATION AND CERTIFICATIONS**
 
-  - **Cyber Security and Networking Foundations - Career Studies Certificate **, 
+  - **Cyber Security and Networking Foundations - Career Studies Certificate**, 
 *Tidewater Community College - Dec 2021*
 
   - **Information Systems Technology Certificate**, 
