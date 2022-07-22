@@ -9,7 +9,7 @@ ______________________________________________________
 ### **🔭  PROJECTS I AM CURRENTLY WORKING ON 🔭**
 *The following projects are links to the current repositories I am working on.*
 
-[My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)
+<!-- [My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)-->
 ___________________________________________________________________
 
 ### **🔭  PROJECTS I HAVE COMPLETED 🔭**
