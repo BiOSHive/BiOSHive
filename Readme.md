@@ -12,15 +12,6 @@ ______________________________________________________
 <!-- [My Digital Resume App](https://github.com/BiOSHive/myDigitalResumeApp)-->
 ___________________________________________________________________
 
-### **🔭  PROJECTS I HAVE COMPLETED 🔭**
-*The following links are to the current projects I have completed.*
-
-[Budget Calculator](https://github.com/BiOSHive/budget-calculator)
-
-
-<!-- - TheBiosHiveApp -->
-____________________________________________________
-
 ### **🌱 SKILLS I AM LEARNING OR IMPROVING 🌱**
 *The following skills are things I am learning to better myself as a fullstack developer. If you want to see my current skills please view my repositories.*
 
